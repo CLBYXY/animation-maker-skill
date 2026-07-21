@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animation Maker Skill"
+  short_description: "Local PetPals animation workbench"
+  default_prompt: "Use $animation-maker-skill to start the local animation workbench and make pet animation assets."

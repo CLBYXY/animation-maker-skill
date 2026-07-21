@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+.tsbuild/
+.data/
+*.tsbuildinfo
+*.log
+workspace/
+scripts/*_gif_urls.json
+assets/animation-workbench/node_modules/
+assets/animation-workbench/dist/
+assets/animation-workbench/.tsbuild/
+assets/animation-workbench/.data/
+assets/animation-workbench/*.tsbuildinfo
